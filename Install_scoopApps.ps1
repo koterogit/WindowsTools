@@ -1,0 +1,12 @@
+scoop install android-studio
+scoop install git
+scoop install peco
+scoop install pwsh
+scoop install python
+scoop install busybox
+scoop install vim
+scoop install vscode
+scoop install freemind
+scoop install PhraseExpress
+scoop install sakura-editor
+scoop install winmerge-jp
