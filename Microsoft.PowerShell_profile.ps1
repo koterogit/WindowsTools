@@ -11,10 +11,6 @@ cd $home\Desktop
 function prompt { "`r`n[$(Get-Location)\]`r`n$("+"*(Get-Location -Stack).Count)>" }
 
 # My Functions
-Function Edit-Rcfile {vim $profile;}
-Set-Alias -name editrc -value Edit-Rcfile
-
-Function gd{Get-Date -Format FileDate | clip}
 
 # My alias
 
