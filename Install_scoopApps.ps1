@@ -20,3 +20,4 @@ scoop install PhraseExpress
 scoop install sakura-editor
 scoop install winmerge-jp
 scoop install wireshark
+scoop install nodejs-lts
