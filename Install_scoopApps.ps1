@@ -24,3 +24,4 @@ scoop install wireshark
 scoop install nodejs-lts
 scoop install android-studio
 scoop install sublime-text
+scoop install meld
